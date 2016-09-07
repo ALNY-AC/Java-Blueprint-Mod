@@ -1,6 +1,6 @@
 package pinMod;
 
-/** 引脚源码接口 */
+/** 如果想要一个引脚拥有源码，就是实现这个接口 */
 public interface PinCode {
 
 	/**

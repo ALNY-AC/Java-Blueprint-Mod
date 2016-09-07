@@ -4,9 +4,7 @@ import java.util.ArrayList;
 
 import pinMod.Pin;
 
-/**
- * 若想让节点操作引脚，要实现这个接口
- */
+/** 如果想给节点添加引脚，必须实现此接口 */
 
 public interface NodePin {
 
